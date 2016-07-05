@@ -1,0 +1,10 @@
+--Ideas--
+Units are spawned from structures, not summoned.
+Units have some interesting abilities
+Enchantments are a thing.  They spawn from a structure and fall when the structure is destroyed.
+Land can be raised or fallen -- This makes for interesting maneuvering.
+
+--Win Conditions--
+Opponent controls no land.  Land is lost when units with a special effect cross over it.
+
+--Different races, some swarm, some with stronger minions, etc...--
